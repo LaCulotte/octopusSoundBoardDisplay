@@ -1,0 +1,5 @@
+﻿  SoundboardDisplay.cpp
+C:\Users\negek\Documents\OBS\tools\Keyboard\HookingRawInputDemo\HookingRawInputDemo\SoundboardDisplay.cpp(300,40): warning C4312: 'cast de type' : la conversion de 'int' en 'void *' d'une taille supérieure
+C:\Users\negek\Documents\OBS\tools\Keyboard\HookingRawInputDemo\HookingRawInputDemo\SoundboardDisplay.cpp(332,40): warning C4311: 'cast de type' : troncation de pointeur de 'void *' à 'unsigned long'
+C:\Users\negek\Documents\OBS\tools\Keyboard\HookingRawInputDemo\HookingRawInputDemo\SoundboardDisplay.cpp(332,40): warning C4302: 'cast de type' : troncation de 'void *' à 'unsigned long'
+  HookingRawInputDemo.vcxproj -> C:\Users\negek\Documents\OBS\tools\Keyboard\HookingRawInputDemo\x64\Debug\HookingRawInputDemo.exe
